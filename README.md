@@ -1,2 +1,2 @@
 # PRODIGY_CS_01
-This is a project done part of my internship at Prodigy InfoTech
+This project was developed by me as part of an internship with Prodigy Infotech, incorporating various self-study resources and references. It is a Python-based application designed to encrypt and decrypt plaintext into ciphertext and vice-versa using the Caesar cipher technique. The program allows for key values ranging from 1 to 26 for encryption and decryption operations. You can compile and execute the code using Python.
